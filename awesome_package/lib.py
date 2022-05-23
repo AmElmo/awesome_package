@@ -1,4 +1,4 @@
 
-def try_me(num1,num2,num3):
+def tell_truth(num):
 
-    return num1 + num2 * num3
+    return f"There are {num} million people named Joao in Portugal"
